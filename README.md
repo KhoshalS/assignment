@@ -21,9 +21,10 @@ This is a **test project** created as part of an assignment to demonstrate my Fl
 
 Here are some screenshots of the app:
 
-| Home Screen                                        | Video Details Screen                              |
-|----------------------------------------------------|---------------------------------------------------|
-| ![Home Screen](assets/screenshots/home_screen.jpg) | ![Video Details](assets/screenshots/tutorial.mp4) |
+| Home Screen                                         | Video Details Screen                               |
+|-----------------------------------------------------|----------------------------------------------------|
+| ![Home Screen](assets/screenshots/home_screen.jpg)  | ![Video Details](assets/screenshots/tutorial.mp4)  |
+| ![Home Screen](assets/screenshots/home_screen2.jpg) | [Home Screen](assets/screenshots/home_screen3.jpg) |
 
 ---
 
@@ -39,8 +40,10 @@ Before you begin, ensure you have the following installed:
 ### Steps to Run the App
 1. Clone the Repository
    First, clone this repository to your local machine using the following command:
-   ```git clone https://github.com/KhoshalS/assignment.git
-   cd assignment```
+   ```
+   git clone https://github.com/KhoshalS/assignment.git
+   cd assignment
+   ```
 2. Install Dependencies
       Once you've cloned the repository, navigate to the project directory and install all required dependencies using the following command:
    ```flutter pub get```
@@ -61,10 +64,12 @@ Resolving dependencies...
   ```
 3. Run the App
    After installing the dependencies, you can run the app on your preferred platform:
-   **For Android/iOS :**
+   
+**For Android/iOS :**
 Connect your device or start an emulator, then run:
 ```flutter run```
-   **For Web :**
+
+**For Web :**
 To run the app in a web browser, use:
 ```flutter run -d chrome```
 
@@ -101,12 +106,12 @@ lib/
   
 
 ## Contact Me
-If you have any questions or would like to discuss further, feel free to reach out:
+If you have any questions or would like to discuss further, feel free to reach out:  
 
-Name : **Khoshal Saidy**
-Email : **khoshalkdrr@gmail.com**
-Phone : **+93 708 672 828**
-GitHub : **@KhoshalS**
-LinkedIn : **Khoshal Saidy**
+Name : **Khoshal Saidy**.  
+Email : **khoshalkdrr@gmail.com**.  
+Phone : **+93 708 672 828**.  
+GitHub : **@KhoshalS**.  
+LinkedIn : **Khoshal Saidy**.
 
-Made with ❤️ by **Khoshal Saidy**
+Made with ❤️ by **Khoshal Saidy**.  
